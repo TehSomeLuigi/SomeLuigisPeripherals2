@@ -23,6 +23,7 @@
 <target name="prep">
 	<copy todir="${build.dir.mcp}/src/minecraft">
 		<fileset dir="${build.dir.development}/source/${build.srcdir}/" />
+		<fileset dir="${build.dir.development}/source/${build.simple.srcdir}/" />
 	</copy>
 </target>
 
