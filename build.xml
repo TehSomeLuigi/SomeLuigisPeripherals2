@@ -6,6 +6,7 @@
 
 <target name="prepackage_clean">
 	<delete dir="${build.dir.mcp}/src/minecraft/dan200/" />
+	<delete dir="${build.dir.mcp}/reobf/minecraft/dan200/" />
 </target>
 
 <target name="clean">
