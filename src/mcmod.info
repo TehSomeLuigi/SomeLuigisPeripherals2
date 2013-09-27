@@ -1,0 +1,23 @@
+{
+	"modinfoversion": 2,
+	"modlist": [
+		{
+			"modid": "someluigisperiph",
+			"name": "SomeLuigi's Peripherals",
+			"description": "Adds a peripheral, more in the future.",
+			"version": "@VERSION@",
+			"mcversion": "1.6.2",
+			"url": "",
+			"updateUrl": "",
+			"authors": ["TehSomeLuigi"],
+			"credits": "Authored by TehSomeLuigi",
+			"logoFile": "",
+			"screenshots": [],
+			"parent": "",
+			"requiredMods": ["Forge", "ComputerCraft"],
+			"dependencies": ["Forge", "ComputerCraft"],
+			"dependants": [],
+			"useDependencyInformation": "true"
+		}
+	]
+}
